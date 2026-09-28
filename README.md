@@ -285,7 +285,7 @@ O objetivo era verificar:
     
     7. Como vender mais?
     
-    8. Como convencer clientes a comprar o meu produto?
+    8. Como convencer clientes a comprarem o meu produto?
 
   
 
@@ -489,7 +489,7 @@ Cada pergunta foi analisada considerando:
 
   
 
-#### 8. Como convencer clientes a comprar o meu produto?
+#### 8. Como convencer clientes a comprarem o meu produto?
 
   
 

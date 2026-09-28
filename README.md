@@ -1795,7 +1795,7 @@ O projeto também demonstrou uma evolução na formulação dos prompts, partind
 
 ---
 ## 15. Miniguia de estudos
-### 15.1 Fundamentos do bom atendimento 
+### 15.1 Fundamentos de um bom atendimento 
 
 A excelência no atendimento consiste em resolver os problemas dos consumidores de forma precisa e ajudá-los a alcançar os resultados desejados.
 
